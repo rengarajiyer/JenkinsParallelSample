@@ -1,0 +1,14 @@
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.exe.config
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.exe
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.pdb
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.csprojAssemblyReference.cache
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.csproj.CoreCompileInputs.cache
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.exe
+C:\Users\1012378\Downloads\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.pdb
+C:\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.exe.config
+C:\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.exe
+C:\Trending_-_pure_code\Trending\Trending\bin\Debug\Trending.pdb
+C:\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.csprojAssemblyReference.cache
+C:\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.csproj.CoreCompileInputs.cache
+C:\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.exe
+C:\Trending_-_pure_code\Trending\Trending\obj\Debug\Trending.pdb
