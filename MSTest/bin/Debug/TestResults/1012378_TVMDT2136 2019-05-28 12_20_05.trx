@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2ac1c9fb-a3af-4073-bf57-4fd9e336606e" name="1012378@TVMDT2136 2019-05-28 12:20:05" runUser="QUEST-GLOBAL\1012378" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="d38b7488-341c-4a28-8461-3709d76b0183">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="1012378_TVMDT2136 2019-05-28 12_20_05" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2019-05-28T12:20:05.7042673+05:30" queuing="2019-05-28T12:20:06.1022940+05:30" start="2019-05-28T12:20:06.2124484+05:30" finish="2019-05-28T12:20:06.6551147+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_Trending_MSTest_FAIL" storage="mstest.dll" id="ff33f989-5f49-9c43-9851-da71bd8d9634">
+      <Execution id="215d2ef6-e949-4e4e-86d5-b9906f2fec93" />
+      <TestMethod codeBase="C:/Trending_-_pure_code/Trending/MSTest/bin/Debug/mstest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Trending_MSTest_FAIL" />
+    </UnitTest>
+    <UnitTest name="Test_Trending_MSTest_OK" storage="mstest.dll" id="3ebf6806-d33f-78ee-05df-68a7ba9e20ba">
+      <Execution id="75273ce2-900f-460d-82f0-8dfa987cad3c" />
+      <TestMethod codeBase="C:/Trending_-_pure_code/Trending/MSTest/bin/Debug/mstest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Trending_MSTest_OK" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ff33f989-5f49-9c43-9851-da71bd8d9634" executionId="215d2ef6-e949-4e4e-86d5-b9906f2fec93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ebf6806-d33f-78ee-05df-68a7ba9e20ba" executionId="75273ce2-900f-460d-82f0-8dfa987cad3c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="215d2ef6-e949-4e4e-86d5-b9906f2fec93" testId="ff33f989-5f49-9c43-9851-da71bd8d9634" testName="Test_Trending_MSTest_FAIL" computerName="TVMDT2136" duration="00:00:00.0313359" startTime="2019-05-28T12:20:06.2980368+05:30" endTime="2019-05-28T12:20:06.6112312+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="215d2ef6-e949-4e4e-86d5-b9906f2fec93">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;nope&gt;. Actual:&lt;Paul Walker&gt;. </Message>
+          <StackTrace>   at MSTest.MsTestExample.Test_Trending_MSTest_FAIL() in C:\Trending_-_pure_code\Trending\MSTest\MSTest_Example.cs:line 32
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="75273ce2-900f-460d-82f0-8dfa987cad3c" testId="3ebf6806-d33f-78ee-05df-68a7ba9e20ba" testName="Test_Trending_MSTest_OK" computerName="TVMDT2136" duration="00:00:00.0002424" startTime="2019-05-28T12:20:06.6132284+05:30" endTime="2019-05-28T12:20:06.6142566+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="75273ce2-900f-460d-82f0-8dfa987cad3c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

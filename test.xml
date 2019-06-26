@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<testsuites>
+<testsuite name="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" hostname="TVMDT2136" package=".NET Core" id="0" tests="2" failures="1" errors="0" skipped="0" time="0.0419015" timestamp="2019-05-29T15:30:00">
+  
+  <properties/>
+  
+  <testcase name="Test_Trending_MSTest_FAIL" classname="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" time="0.0416714">
+    
+    <failure message="Assert.AreEqual failed. Expected:&lt;nope&gt;. Actual:&lt;Paul Walker&gt;. " type="not specified">at MSTest.MsTestExample.Test_Trending_MSTest_FAIL() in C:\Testfolder\MSTest\MSTest_Example.cs:line 32</failure>
+    
+  </testcase>
+  
+  <testcase name="Test_Trending_MSTest_OK" classname="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" time="0.0002301"/>
+  
+  <system-out/>
+  
+  <system-err/>
+  
+</testsuite>
+
+<testsuite name="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" hostname="TVMDT2136" package=".NET Core" id="0" tests="2" failures="1" errors="0" skipped="0" time="0.0372394" timestamp="2019-05-29T15:30:00">
+  
+  <properties/>
+  
+  <testcase name="Test_Trending_MSTest_FAIL" classname="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" time="0.0369862">
+    
+    <failure message="Assert.AreEqual failed. Expected:&lt;nope&gt;. Actual:&lt;Paul Walker&gt;. " type="not specified">at MSTest.MsTestExample.Test_Trending_MSTest_FAIL() in C:\Testfolder\MSTest\MSTest_Example.cs:line 32</failure>
+    
+  </testcase>
+  
+  <testcase name="Test_Trending_MSTest_OK" classname="MSTest.MsTestExample, MSTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" time="0.0002532"/>
+  
+  <system-out/>
+  
+  <system-err/>
+  
+</testsuite>
+
+</testsuites>
